@@ -1,0 +1,7 @@
+{
+  "name": "biometric-login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
